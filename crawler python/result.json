@@ -1,0 +1,2442 @@
+{
+  "result": 0,
+  "return_object": {
+    "doc_id": "",
+    "DCT": "",
+    "category": "",
+    "category_weight": 0.0,
+    "title": {
+      "text": "",
+      "NE": ""
+    },
+    "metaInfo": {},
+    "paragraphInfo": [],
+    "sentence": [
+      {
+        "id": 0.0,
+        "reserve_str": "",
+        "text": "팝업스토어 참가 조건 안내팝업스토어 컨셉 및 주요사항5월 가정의 달 특집전, 옥상정원 피크닉 이벤트 기간패션잡화 / 쥬얼리 / 1020타겟의류 / 아웃도어 / 캠핑 카테고리 우선 선정동기간 동장소에서 피크닉 이벤트 (솜사탕 및 프리드링크, 돗자리 제공) 진행 예정팝업일정 및 영업시간공간: 수원 AK 백화점 7층 옥상 정원일정: 5/5(목) ~ 5/15(일), 11일간영업시간: 10:30 ~ 20:00 (단, 금~일은 10:30 ~ 20:30)팝업공간 안내참여 브랜드 규모 : 5 ~ 6개 브랜드주요 고객층 : 102030 젊은 층 고객팝업자 준비사항판매사원(필수)연출소품 및 간이의자제공사항판매용 테이블/매대(무상)결제 단말기(공용)전기참가비용 및 정산수수료 조건(총매출액의 계약 수수료율 적용)정산일정 : 계약서 맨 마지막 장 확인모집마감04월 24일셀러발표04월 25일참가신청 취소신청기간 내 자진 취소셀러발표 후 취소 불가",
+        "morp": [
+          {
+            "id": 0.0,
+            "lemma": "팝",
+            "type": "NNG",
+            "position": 0.0,
+            "weight": 0.0331795
+          },
+          {
+            "id": 1.0,
+            "lemma": "업",
+            "type": "NNG",
+            "position": 3.0,
+            "weight": 0.0331795
+          },
+          {
+            "id": 2.0,
+            "lemma": "스토어",
+            "type": "NNG",
+            "position": 6.0,
+            "weight": 0.0164424
+          },
+          {
+            "id": 3.0,
+            "lemma": "참가",
+            "type": "NNG",
+            "position": 16.0,
+            "weight": 0.036819
+          },
+          {
+            "id": 4.0,
+            "lemma": "조건",
+            "type": "NNG",
+            "position": 23.0,
+            "weight": 0.0346676
+          },
+          {
+            "id": 5.0,
+            "lemma": "안내",
+            "type": "NNG",
+            "position": 30.0,
+            "weight": 0.0481895
+          },
+          {
+            "id": 6.0,
+            "lemma": "팝",
+            "type": "NNG",
+            "position": 36.0,
+            "weight": 0.0213535
+          },
+          {
+            "id": 7.0,
+            "lemma": "업",
+            "type": "NNG",
+            "position": 39.0,
+            "weight": 0.0213535
+          },
+          {
+            "id": 8.0,
+            "lemma": "스토어",
+            "type": "NNG",
+            "position": 42.0,
+            "weight": 0.018093
+          },
+          {
+            "id": 9.0,
+            "lemma": "컨셉",
+            "type": "NNG",
+            "position": 52.0,
+            "weight": 0.067752
+          },
+          {
+            "id": 10.0,
+            "lemma": "및",
+            "type": "MAJ",
+            "position": 59.0,
+            "weight": 1.0
+          },
+          {
+            "id": 11.0,
+            "lemma": "주요",
+            "type": "NNG",
+            "position": 63.0,
+            "weight": 0.0779987
+          },
+          {
+            "id": 12.0,
+            "lemma": "사항",
+            "type": "NNG",
+            "position": 69.0,
+            "weight": 0.084105
+          },
+          {
+            "id": 13.0,
+            "lemma": "5",
+            "type": "SN",
+            "position": 75.0,
+            "weight": 1.0
+          },
+          {
+            "id": 14.0,
+            "lemma": "월",
+            "type": "NNB",
+            "position": 76.0,
+            "weight": 0.08436
+          },
+          {
+            "id": 15.0,
+            "lemma": "가정",
+            "type": "NNG",
+            "position": 80.0,
+            "weight": 0.115546
+          },
+          {
+            "id": 16.0,
+            "lemma": "의",
+            "type": "JKG",
+            "position": 86.0,
+            "weight": 0.0965849
+          },
+          {
+            "id": 17.0,
+            "lemma": "달",
+            "type": "NNG",
+            "position": 90.0,
+            "weight": 0.0505323
+          },
+          {
+            "id": 18.0,
+            "lemma": "특집",
+            "type": "NNG",
+            "position": 94.0,
+            "weight": 0.0670876
+          },
+          {
+            "id": 19.0,
+            "lemma": "전",
+            "type": "XSN",
+            "position": 100.0,
+            "weight": 0.0670876
+          },
+          {
+            "id": 20.0,
+            "lemma": ",",
+            "type": "SP",
+            "position": 103.0,
+            "weight": 1.0
+          },
+          {
+            "id": 21.0,
+            "lemma": "옥상",
+            "type": "NNG",
+            "position": 105.0,
+            "weight": 0.0780398
+          },
+          {
+            "id": 22.0,
+            "lemma": "정원",
+            "type": "NNG",
+            "position": 111.0,
+            "weight": 0.0308192
+          },
+          {
+            "id": 23.0,
+            "lemma": "피크닉",
+            "type": "NNG",
+            "position": 118.0,
+            "weight": 0.0808534
+          },
+          {
+            "id": 24.0,
+            "lemma": "이벤트",
+            "type": "NNG",
+            "position": 128.0,
+            "weight": 0.110198
+          },
+          {
+            "id": 25.0,
+            "lemma": "기간",
+            "type": "NNG",
+            "position": 138.0,
+            "weight": 0.118982
+          },
+          {
+            "id": 26.0,
+            "lemma": "패션",
+            "type": "NNG",
+            "position": 144.0,
+            "weight": 0.0841826
+          },
+          {
+            "id": 27.0,
+            "lemma": "잡화",
+            "type": "NNG",
+            "position": 150.0,
+            "weight": 0.0398276
+          },
+          {
+            "id": 28.0,
+            "lemma": "/",
+            "type": "SP",
+            "position": 157.0,
+            "weight": 1.0
+          },
+          {
+            "id": 29.0,
+            "lemma": "쥬얼리",
+            "type": "NNP",
+            "position": 159.0,
+            "weight": 0.0352316
+          },
+          {
+            "id": 30.0,
+            "lemma": "/",
+            "type": "SP",
+            "position": 169.0,
+            "weight": 1.0
+          },
+          {
+            "id": 31.0,
+            "lemma": "1020",
+            "type": "SN",
+            "position": 171.0,
+            "weight": 1.0
+          },
+          {
+            "id": 32.0,
+            "lemma": "타겟",
+            "type": "NNG",
+            "position": 175.0,
+            "weight": 0.0294003
+          },
+          {
+            "id": 33.0,
+            "lemma": "의류",
+            "type": "NNG",
+            "position": 181.0,
+            "weight": 0.0584661
+          },
+          {
+            "id": 34.0,
+            "lemma": "/",
+            "type": "SP",
+            "position": 188.0,
+            "weight": 1.0
+          },
+          {
+            "id": 35.0,
+            "lemma": "아웃",
+            "type": "NNG",
+            "position": 190.0,
+            "weight": 0.100475
+          },
+          {
+            "id": 36.0,
+            "lemma": "도어",
+            "type": "NNG",
+            "position": 196.0,
+            "weight": 0.0190179
+          },
+          {
+            "id": 37.0,
+            "lemma": "/",
+            "type": "SP",
+            "position": 203.0,
+            "weight": 1.0
+          },
+          {
+            "id": 38.0,
+            "lemma": "캠핑",
+            "type": "NNG",
+            "position": 205.0,
+            "weight": 0.0632679
+          },
+          {
+            "id": 39.0,
+            "lemma": "카테고리",
+            "type": "NNG",
+            "position": 212.0,
+            "weight": 0.0383452
+          },
+          {
+            "id": 40.0,
+            "lemma": "우선",
+            "type": "MAG",
+            "position": 225.0,
+            "weight": 0.0627301
+          },
+          {
+            "id": 41.0,
+            "lemma": "선정",
+            "type": "NNG",
+            "position": 232.0,
+            "weight": 0.0570478
+          },
+          {
+            "id": 42.0,
+            "lemma": "동",
+            "type": "NNG",
+            "position": 238.0,
+            "weight": 0.043702
+          },
+          {
+            "id": 43.0,
+            "lemma": "기간",
+            "type": "NNG",
+            "position": 241.0,
+            "weight": 0.42311
+          },
+          {
+            "id": 44.0,
+            "lemma": "동장",
+            "type": "NNG",
+            "position": 248.0,
+            "weight": 0.0497261
+          },
+          {
+            "id": 45.0,
+            "lemma": "소",
+            "type": "XSN",
+            "position": 254.0,
+            "weight": 0.0497261
+          },
+          {
+            "id": 46.0,
+            "lemma": "에서",
+            "type": "JKB",
+            "position": 257.0,
+            "weight": 0.0806385
+          },
+          {
+            "id": 47.0,
+            "lemma": "피크닉",
+            "type": "NNG",
+            "position": 264.0,
+            "weight": 0.0879149
+          },
+          {
+            "id": 48.0,
+            "lemma": "이벤트",
+            "type": "NNG",
+            "position": 274.0,
+            "weight": 0.128236
+          },
+          {
+            "id": 49.0,
+            "lemma": "(",
+            "type": "SS",
+            "position": 284.0,
+            "weight": 1.0
+          },
+          {
+            "id": 50.0,
+            "lemma": "솜",
+            "type": "NNG",
+            "position": 285.0,
+            "weight": 0.0955991
+          },
+          {
+            "id": 51.0,
+            "lemma": "사탕",
+            "type": "NNG",
+            "position": 288.0,
+            "weight": 0.0955991
+          },
+          {
+            "id": 52.0,
+            "lemma": "및",
+            "type": "MAJ",
+            "position": 295.0,
+            "weight": 1.0
+          },
+          {
+            "id": 53.0,
+            "lemma": "프리드링크",
+            "type": "NNG",
+            "position": 299.0,
+            "weight": 0.0884502
+          },
+          {
+            "id": 54.0,
+            "lemma": ",",
+            "type": "SP",
+            "position": 314.0,
+            "weight": 1.0
+          },
+          {
+            "id": 55.0,
+            "lemma": "돗",
+            "type": "NNG",
+            "position": 316.0,
+            "weight": 0.0756049
+          },
+          {
+            "id": 56.0,
+            "lemma": "자리",
+            "type": "NNG",
+            "position": 319.0,
+            "weight": 0.0756049
+          },
+          {
+            "id": 57.0,
+            "lemma": "제공",
+            "type": "NNG",
+            "position": 326.0,
+            "weight": 0.0740426
+          },
+          {
+            "id": 58.0,
+            "lemma": ")",
+            "type": "SS",
+            "position": 332.0,
+            "weight": 1.0
+          },
+          {
+            "id": 59.0,
+            "lemma": "진행",
+            "type": "NNG",
+            "position": 334.0,
+            "weight": 0.105268
+          },
+          {
+            "id": 60.0,
+            "lemma": "예정",
+            "type": "NNG",
+            "position": 341.0,
+            "weight": 0.0671676
+          },
+          {
+            "id": 61.0,
+            "lemma": "팝",
+            "type": "NNG",
+            "position": 347.0,
+            "weight": 0.024397
+          },
+          {
+            "id": 62.0,
+            "lemma": "업",
+            "type": "NNG",
+            "position": 350.0,
+            "weight": 0.024397
+          },
+          {
+            "id": 63.0,
+            "lemma": "일정",
+            "type": "NNG",
+            "position": 353.0,
+            "weight": 0.0376435
+          },
+          {
+            "id": 64.0,
+            "lemma": "및",
+            "type": "MAJ",
+            "position": 360.0,
+            "weight": 1.0
+          },
+          {
+            "id": 65.0,
+            "lemma": "영업",
+            "type": "NNG",
+            "position": 364.0,
+            "weight": 0.0862526
+          },
+          {
+            "id": 66.0,
+            "lemma": "시간",
+            "type": "NNG",
+            "position": 370.0,
+            "weight": 0.347214
+          },
+          {
+            "id": 67.0,
+            "lemma": "공간",
+            "type": "NNG",
+            "position": 376.0,
+            "weight": 0.090953
+          },
+          {
+            "id": 68.0,
+            "lemma": ":",
+            "type": "SP",
+            "position": 382.0,
+            "weight": 1.0
+          },
+          {
+            "id": 69.0,
+            "lemma": "수원",
+            "type": "NNP",
+            "position": 384.0,
+            "weight": 0.0744014
+          },
+          {
+            "id": 70.0,
+            "lemma": "AK",
+            "type": "SL",
+            "position": 391.0,
+            "weight": 1.0
+          },
+          {
+            "id": 71.0,
+            "lemma": "백화",
+            "type": "NNG",
+            "position": 394.0,
+            "weight": 0.123854
+          },
+          {
+            "id": 72.0,
+            "lemma": "점",
+            "type": "XSN",
+            "position": 400.0,
+            "weight": 0.123854
+          },
+          {
+            "id": 73.0,
+            "lemma": "7",
+            "type": "SN",
+            "position": 404.0,
+            "weight": 1.0
+          },
+          {
+            "id": 74.0,
+            "lemma": "층",
+            "type": "NNG",
+            "position": 405.0,
+            "weight": 0.0569439
+          },
+          {
+            "id": 75.0,
+            "lemma": "옥상",
+            "type": "NNG",
+            "position": 409.0,
+            "weight": 0.0691768
+          },
+          {
+            "id": 76.0,
+            "lemma": "정원",
+            "type": "NNP",
+            "position": 416.0,
+            "weight": 0.0816759
+          },
+          {
+            "id": 77.0,
+            "lemma": "일정",
+            "type": "NNG",
+            "position": 422.0,
+            "weight": 0.0260661
+          },
+          {
+            "id": 78.0,
+            "lemma": ":",
+            "type": "SP",
+            "position": 428.0,
+            "weight": 1.0
+          },
+          {
+            "id": 79.0,
+            "lemma": "5",
+            "type": "SN",
+            "position": 430.0,
+            "weight": 1.0
+          },
+          {
+            "id": 80.0,
+            "lemma": "/",
+            "type": "SP",
+            "position": 431.0,
+            "weight": 1.0
+          },
+          {
+            "id": 81.0,
+            "lemma": "5",
+            "type": "SN",
+            "position": 432.0,
+            "weight": 1.0
+          },
+          {
+            "id": 82.0,
+            "lemma": "(",
+            "type": "SS",
+            "position": 433.0,
+            "weight": 1.0
+          },
+          {
+            "id": 83.0,
+            "lemma": "목",
+            "type": "NNG",
+            "position": 434.0,
+            "weight": 0.046057
+          },
+          {
+            "id": 84.0,
+            "lemma": ")",
+            "type": "SS",
+            "position": 437.0,
+            "weight": 1.0
+          },
+          {
+            "id": 85.0,
+            "lemma": "~",
+            "type": "SO",
+            "position": 439.0,
+            "weight": 1.0
+          },
+          {
+            "id": 86.0,
+            "lemma": "5",
+            "type": "SN",
+            "position": 441.0,
+            "weight": 1.0
+          },
+          {
+            "id": 87.0,
+            "lemma": "/",
+            "type": "SP",
+            "position": 442.0,
+            "weight": 1.0
+          },
+          {
+            "id": 88.0,
+            "lemma": "15",
+            "type": "SN",
+            "position": 443.0,
+            "weight": 1.0
+          },
+          {
+            "id": 89.0,
+            "lemma": "(",
+            "type": "SS",
+            "position": 445.0,
+            "weight": 1.0
+          },
+          {
+            "id": 90.0,
+            "lemma": "일",
+            "type": "NNG",
+            "position": 446.0,
+            "weight": 0.0428728
+          },
+          {
+            "id": 91.0,
+            "lemma": ")",
+            "type": "SS",
+            "position": 449.0,
+            "weight": 1.0
+          },
+          {
+            "id": 92.0,
+            "lemma": ",",
+            "type": "SP",
+            "position": 450.0,
+            "weight": 1.0
+          },
+          {
+            "id": 93.0,
+            "lemma": "11",
+            "type": "SN",
+            "position": 452.0,
+            "weight": 1.0
+          },
+          {
+            "id": 94.0,
+            "lemma": "일",
+            "type": "NNB",
+            "position": 454.0,
+            "weight": 0.109826
+          },
+          {
+            "id": 95.0,
+            "lemma": "간",
+            "type": "XSN",
+            "position": 457.0,
+            "weight": 0.0406906
+          },
+          {
+            "id": 96.0,
+            "lemma": "영업",
+            "type": "NNG",
+            "position": 460.0,
+            "weight": 0.0422165
+          },
+          {
+            "id": 97.0,
+            "lemma": "시간",
+            "type": "NNG",
+            "position": 466.0,
+            "weight": 0.326411
+          },
+          {
+            "id": 98.0,
+            "lemma": ":",
+            "type": "SP",
+            "position": 472.0,
+            "weight": 1.0
+          },
+          {
+            "id": 99.0,
+            "lemma": "10",
+            "type": "SN",
+            "position": 474.0,
+            "weight": 1.0
+          },
+          {
+            "id": 100.0,
+            "lemma": ":",
+            "type": "SP",
+            "position": 476.0,
+            "weight": 1.0
+          },
+          {
+            "id": 101.0,
+            "lemma": "30",
+            "type": "SN",
+            "position": 477.0,
+            "weight": 1.0
+          },
+          {
+            "id": 102.0,
+            "lemma": "~",
+            "type": "SO",
+            "position": 480.0,
+            "weight": 1.0
+          },
+          {
+            "id": 103.0,
+            "lemma": "20",
+            "type": "SN",
+            "position": 482.0,
+            "weight": 1.0
+          },
+          {
+            "id": 104.0,
+            "lemma": ":",
+            "type": "SP",
+            "position": 484.0,
+            "weight": 1.0
+          },
+          {
+            "id": 105.0,
+            "lemma": "00",
+            "type": "SN",
+            "position": 485.0,
+            "weight": 1.0
+          },
+          {
+            "id": 106.0,
+            "lemma": "(",
+            "type": "SS",
+            "position": 488.0,
+            "weight": 1.0
+          },
+          {
+            "id": 107.0,
+            "lemma": "단",
+            "type": "NNG",
+            "position": 489.0,
+            "weight": 0.0324698
+          },
+          {
+            "id": 108.0,
+            "lemma": ",",
+            "type": "SP",
+            "position": 492.0,
+            "weight": 1.0
+          },
+          {
+            "id": 109.0,
+            "lemma": "금",
+            "type": "NNG",
+            "position": 494.0,
+            "weight": 0.0512746
+          },
+          {
+            "id": 110.0,
+            "lemma": "~",
+            "type": "SO",
+            "position": 497.0,
+            "weight": 1.0
+          },
+          {
+            "id": 111.0,
+            "lemma": "일",
+            "type": "NNG",
+            "position": 498.0,
+            "weight": 0.0604501
+          },
+          {
+            "id": 112.0,
+            "lemma": "은",
+            "type": "JX",
+            "position": 501.0,
+            "weight": 0.0939692
+          },
+          {
+            "id": 113.0,
+            "lemma": "10",
+            "type": "SN",
+            "position": 505.0,
+            "weight": 1.0
+          },
+          {
+            "id": 114.0,
+            "lemma": ":",
+            "type": "SP",
+            "position": 507.0,
+            "weight": 1.0
+          },
+          {
+            "id": 115.0,
+            "lemma": "30",
+            "type": "SN",
+            "position": 508.0,
+            "weight": 1.0
+          },
+          {
+            "id": 116.0,
+            "lemma": "~",
+            "type": "SO",
+            "position": 511.0,
+            "weight": 1.0
+          },
+          {
+            "id": 117.0,
+            "lemma": "20",
+            "type": "SN",
+            "position": 513.0,
+            "weight": 1.0
+          },
+          {
+            "id": 118.0,
+            "lemma": ":",
+            "type": "SP",
+            "position": 515.0,
+            "weight": 1.0
+          },
+          {
+            "id": 119.0,
+            "lemma": "30",
+            "type": "SN",
+            "position": 516.0,
+            "weight": 1.0
+          },
+          {
+            "id": 120.0,
+            "lemma": ")",
+            "type": "SS",
+            "position": 518.0,
+            "weight": 1.0
+          },
+          {
+            "id": 121.0,
+            "lemma": "팝",
+            "type": "NNG",
+            "position": 519.0,
+            "weight": 0.0290507
+          },
+          {
+            "id": 122.0,
+            "lemma": "업",
+            "type": "NNG",
+            "position": 522.0,
+            "weight": 0.0290507
+          },
+          {
+            "id": 123.0,
+            "lemma": "공간",
+            "type": "NNG",
+            "position": 525.0,
+            "weight": 0.0672751
+          },
+          {
+            "id": 124.0,
+            "lemma": "안내",
+            "type": "NNG",
+            "position": 532.0,
+            "weight": 0.0506233
+          },
+          {
+            "id": 125.0,
+            "lemma": "참여",
+            "type": "NNG",
+            "position": 538.0,
+            "weight": 0.0308926
+          },
+          {
+            "id": 126.0,
+            "lemma": "브랜드",
+            "type": "NNG",
+            "position": 545.0,
+            "weight": 0.283164
+          },
+          {
+            "id": 127.0,
+            "lemma": "규모",
+            "type": "NNG",
+            "position": 555.0,
+            "weight": 0.0899436
+          },
+          {
+            "id": 128.0,
+            "lemma": ":",
+            "type": "SP",
+            "position": 562.0,
+            "weight": 1.0
+          },
+          {
+            "id": 129.0,
+            "lemma": "5",
+            "type": "SN",
+            "position": 564.0,
+            "weight": 1.0
+          },
+          {
+            "id": 130.0,
+            "lemma": "~",
+            "type": "SO",
+            "position": 566.0,
+            "weight": 1.0
+          },
+          {
+            "id": 131.0,
+            "lemma": "6",
+            "type": "SN",
+            "position": 568.0,
+            "weight": 1.0
+          },
+          {
+            "id": 132.0,
+            "lemma": "개",
+            "type": "NNB",
+            "position": 569.0,
+            "weight": 0.105371
+          },
+          {
+            "id": 133.0,
+            "lemma": "브랜드",
+            "type": "NNG",
+            "position": 573.0,
+            "weight": 0.275272
+          },
+          {
+            "id": 134.0,
+            "lemma": "주요",
+            "type": "NNG",
+            "position": 582.0,
+            "weight": 0.0188725
+          },
+          {
+            "id": 135.0,
+            "lemma": "고객",
+            "type": "NNG",
+            "position": 589.0,
+            "weight": 0.0629396
+          },
+          {
+            "id": 136.0,
+            "lemma": "층",
+            "type": "NNG",
+            "position": 595.0,
+            "weight": 0.0484843
+          },
+          {
+            "id": 137.0,
+            "lemma": ":",
+            "type": "SP",
+            "position": 599.0,
+            "weight": 1.0
+          },
+          {
+            "id": 138.0,
+            "lemma": "102030",
+            "type": "SN",
+            "position": 601.0,
+            "weight": 1.0
+          },
+          {
+            "id": 139.0,
+            "lemma": "젊",
+            "type": "VA",
+            "position": 608.0,
+            "weight": 0.128527
+          },
+          {
+            "id": 140.0,
+            "lemma": "은",
+            "type": "ETM",
+            "position": 611.0,
+            "weight": 0.0674149
+          },
+          {
+            "id": 141.0,
+            "lemma": "층",
+            "type": "NNG",
+            "position": 615.0,
+            "weight": 0.100382
+          },
+          {
+            "id": 142.0,
+            "lemma": "고객",
+            "type": "NNG",
+            "position": 619.0,
+            "weight": 0.0669016
+          },
+          {
+            "id": 143.0,
+            "lemma": "팝업자",
+            "type": "NNG",
+            "position": 625.0,
+            "weight": 0.0244306
+          },
+          {
+            "id": 144.0,
+            "lemma": "준비",
+            "type": "NNG",
+            "position": 635.0,
+            "weight": 0.0911285
+          },
+          {
+            "id": 145.0,
+            "lemma": "사항",
+            "type": "NNG",
+            "position": 641.0,
+            "weight": 0.0489005
+          },
+          {
+            "id": 146.0,
+            "lemma": "판매",
+            "type": "NNG",
+            "position": 647.0,
+            "weight": 0.04534
+          },
+          {
+            "id": 147.0,
+            "lemma": "사원",
+            "type": "NNG",
+            "position": 653.0,
+            "weight": 0.0480525
+          },
+          {
+            "id": 148.0,
+            "lemma": "(",
+            "type": "SS",
+            "position": 659.0,
+            "weight": 1.0
+          },
+          {
+            "id": 149.0,
+            "lemma": "필수",
+            "type": "NNG",
+            "position": 660.0,
+            "weight": 0.0752365
+          },
+          {
+            "id": 150.0,
+            "lemma": ")",
+            "type": "SS",
+            "position": 666.0,
+            "weight": 1.0
+          },
+          {
+            "id": 151.0,
+            "lemma": "연출",
+            "type": "NNG",
+            "position": 667.0,
+            "weight": 0.0590861
+          },
+          {
+            "id": 152.0,
+            "lemma": "소품",
+            "type": "NNG",
+            "position": 673.0,
+            "weight": 0.0444035
+          },
+          {
+            "id": 153.0,
+            "lemma": "및",
+            "type": "MAJ",
+            "position": 680.0,
+            "weight": 1.0
+          },
+          {
+            "id": 154.0,
+            "lemma": "간이",
+            "type": "NNG",
+            "position": 684.0,
+            "weight": 0.0421691
+          },
+          {
+            "id": 155.0,
+            "lemma": "의자",
+            "type": "NNG",
+            "position": 690.0,
+            "weight": 0.0507209
+          },
+          {
+            "id": 156.0,
+            "lemma": "제공",
+            "type": "NNG",
+            "position": 696.0,
+            "weight": 0.039658
+          },
+          {
+            "id": 157.0,
+            "lemma": "사항",
+            "type": "NNG",
+            "position": 702.0,
+            "weight": 0.0497361
+          },
+          {
+            "id": 158.0,
+            "lemma": "판매",
+            "type": "NNG",
+            "position": 708.0,
+            "weight": 0.0450437
+          },
+          {
+            "id": 159.0,
+            "lemma": "용",
+            "type": "XSN",
+            "position": 714.0,
+            "weight": 0.0254095
+          },
+          {
+            "id": 160.0,
+            "lemma": "테이블",
+            "type": "NNG",
+            "position": 718.0,
+            "weight": 0.0632707
+          },
+          {
+            "id": 161.0,
+            "lemma": "/",
+            "type": "SP",
+            "position": 727.0,
+            "weight": 1.0
+          },
+          {
+            "id": 162.0,
+            "lemma": "매대",
+            "type": "NNG",
+            "position": 728.0,
+            "weight": 0.0191569
+          },
+          {
+            "id": 163.0,
+            "lemma": "(",
+            "type": "SS",
+            "position": 734.0,
+            "weight": 1.0
+          },
+          {
+            "id": 164.0,
+            "lemma": "무상",
+            "type": "NNG",
+            "position": 735.0,
+            "weight": 0.0595875
+          },
+          {
+            "id": 165.0,
+            "lemma": ")",
+            "type": "SS",
+            "position": 741.0,
+            "weight": 1.0
+          },
+          {
+            "id": 166.0,
+            "lemma": "결제",
+            "type": "NNG",
+            "position": 742.0,
+            "weight": 0.058114
+          },
+          {
+            "id": 167.0,
+            "lemma": "단말",
+            "type": "NNG",
+            "position": 749.0,
+            "weight": 0.0573985
+          },
+          {
+            "id": 168.0,
+            "lemma": "기",
+            "type": "XSN",
+            "position": 755.0,
+            "weight": 0.0573985
+          },
+          {
+            "id": 169.0,
+            "lemma": "(",
+            "type": "SS",
+            "position": 758.0,
+            "weight": 1.0
+          },
+          {
+            "id": 170.0,
+            "lemma": "공용",
+            "type": "NNG",
+            "position": 759.0,
+            "weight": 0.0635878
+          },
+          {
+            "id": 171.0,
+            "lemma": ")",
+            "type": "SS",
+            "position": 765.0,
+            "weight": 1.0
+          },
+          {
+            "id": 172.0,
+            "lemma": "전기",
+            "type": "NNG",
+            "position": 766.0,
+            "weight": 0.0530777
+          },
+          {
+            "id": 173.0,
+            "lemma": "참가",
+            "type": "NNG",
+            "position": 772.0,
+            "weight": 0.0409185
+          },
+          {
+            "id": 174.0,
+            "lemma": "비용",
+            "type": "NNG",
+            "position": 778.0,
+            "weight": 0.06522
+          },
+          {
+            "id": 175.0,
+            "lemma": "및",
+            "type": "MAJ",
+            "position": 785.0,
+            "weight": 1.0
+          },
+          {
+            "id": 176.0,
+            "lemma": "정산",
+            "type": "NNG",
+            "position": 789.0,
+            "weight": 0.114292
+          },
+          {
+            "id": 177.0,
+            "lemma": "수수",
+            "type": "NNG",
+            "position": 795.0,
+            "weight": 0.0716843
+          },
+          {
+            "id": 178.0,
+            "lemma": "료",
+            "type": "XSN",
+            "position": 801.0,
+            "weight": 0.0716843
+          },
+          {
+            "id": 179.0,
+            "lemma": "조건",
+            "type": "NNG",
+            "position": 805.0,
+            "weight": 0.0586889
+          },
+          {
+            "id": 180.0,
+            "lemma": "(",
+            "type": "SS",
+            "position": 811.0,
+            "weight": 1.0
+          },
+          {
+            "id": 181.0,
+            "lemma": "총",
+            "type": "XPN",
+            "position": 812.0,
+            "weight": 0.0813731
+          },
+          {
+            "id": 182.0,
+            "lemma": "매출",
+            "type": "NNG",
+            "position": 815.0,
+            "weight": 0.0813731
+          },
+          {
+            "id": 183.0,
+            "lemma": "액",
+            "type": "XSN",
+            "position": 821.0,
+            "weight": 0.0813731
+          },
+          {
+            "id": 184.0,
+            "lemma": "의",
+            "type": "JKG",
+            "position": 824.0,
+            "weight": 0.0793596
+          },
+          {
+            "id": 185.0,
+            "lemma": "계약",
+            "type": "NNG",
+            "position": 828.0,
+            "weight": 0.0798389
+          },
+          {
+            "id": 186.0,
+            "lemma": "수수",
+            "type": "NNG",
+            "position": 835.0,
+            "weight": 0.102822
+          },
+          {
+            "id": 187.0,
+            "lemma": "료",
+            "type": "XSN",
+            "position": 841.0,
+            "weight": 0.102822
+          },
+          {
+            "id": 188.0,
+            "lemma": "율",
+            "type": "XSN",
+            "position": 844.0,
+            "weight": 0.0212177
+          },
+          {
+            "id": 189.0,
+            "lemma": "적용",
+            "type": "NNG",
+            "position": 848.0,
+            "weight": 0.0553011
+          },
+          {
+            "id": 190.0,
+            "lemma": ")",
+            "type": "SS",
+            "position": 854.0,
+            "weight": 1.0
+          },
+          {
+            "id": 191.0,
+            "lemma": "정산",
+            "type": "NNG",
+            "position": 855.0,
+            "weight": 0.0628739
+          },
+          {
+            "id": 192.0,
+            "lemma": "일정",
+            "type": "NNG",
+            "position": 861.0,
+            "weight": 0.0266822
+          },
+          {
+            "id": 193.0,
+            "lemma": ":",
+            "type": "SP",
+            "position": 868.0,
+            "weight": 1.0
+          },
+          {
+            "id": 194.0,
+            "lemma": "계약",
+            "type": "NNG",
+            "position": 870.0,
+            "weight": 0.0800864
+          },
+          {
+            "id": 195.0,
+            "lemma": "서",
+            "type": "NNG",
+            "position": 876.0,
+            "weight": 0.0800864
+          },
+          {
+            "id": 196.0,
+            "lemma": "맨",
+            "type": "MM",
+            "position": 880.0,
+            "weight": 0.0643822
+          },
+          {
+            "id": 197.0,
+            "lemma": "마지막",
+            "type": "NNG",
+            "position": 884.0,
+            "weight": 0.0886638
+          },
+          {
+            "id": 198.0,
+            "lemma": "장",
+            "type": "NNG",
+            "position": 894.0,
+            "weight": 0.0464151
+          },
+          {
+            "id": 199.0,
+            "lemma": "확인",
+            "type": "NNG",
+            "position": 898.0,
+            "weight": 0.043686
+          },
+          {
+            "id": 200.0,
+            "lemma": "모집",
+            "type": "NNG",
+            "position": 904.0,
+            "weight": 0.0333947
+          },
+          {
+            "id": 201.0,
+            "lemma": "마감",
+            "type": "NNG",
+            "position": 910.0,
+            "weight": 0.0330889
+          },
+          {
+            "id": 202.0,
+            "lemma": "04",
+            "type": "SN",
+            "position": 916.0,
+            "weight": 1.0
+          },
+          {
+            "id": 203.0,
+            "lemma": "월",
+            "type": "NNB",
+            "position": 918.0,
+            "weight": 0.0856323
+          },
+          {
+            "id": 204.0,
+            "lemma": "24",
+            "type": "SN",
+            "position": 922.0,
+            "weight": 1.0
+          },
+          {
+            "id": 205.0,
+            "lemma": "일",
+            "type": "NNB",
+            "position": 924.0,
+            "weight": 0.0635771
+          },
+          {
+            "id": 206.0,
+            "lemma": "셀러",
+            "type": "NNG",
+            "position": 927.0,
+            "weight": 0.0137347
+          },
+          {
+            "id": 207.0,
+            "lemma": "발표",
+            "type": "NNG",
+            "position": 933.0,
+            "weight": 0.0378896
+          },
+          {
+            "id": 208.0,
+            "lemma": "04",
+            "type": "SN",
+            "position": 939.0,
+            "weight": 1.0
+          },
+          {
+            "id": 209.0,
+            "lemma": "월",
+            "type": "NNB",
+            "position": 941.0,
+            "weight": 0.0902039
+          },
+          {
+            "id": 210.0,
+            "lemma": "25",
+            "type": "SN",
+            "position": 945.0,
+            "weight": 1.0
+          },
+          {
+            "id": 211.0,
+            "lemma": "일",
+            "type": "NNB",
+            "position": 947.0,
+            "weight": 0.0651928
+          },
+          {
+            "id": 212.0,
+            "lemma": "참가",
+            "type": "NNG",
+            "position": 950.0,
+            "weight": 0.0279305
+          },
+          {
+            "id": 213.0,
+            "lemma": "신청",
+            "type": "NNG",
+            "position": 956.0,
+            "weight": 0.0359607
+          },
+          {
+            "id": 214.0,
+            "lemma": "취소",
+            "type": "NNG",
+            "position": 963.0,
+            "weight": 0.0748611
+          },
+          {
+            "id": 215.0,
+            "lemma": "신청",
+            "type": "NNG",
+            "position": 969.0,
+            "weight": 0.039915
+          },
+          {
+            "id": 216.0,
+            "lemma": "기간",
+            "type": "NNG",
+            "position": 975.0,
+            "weight": 0.0326136
+          },
+          {
+            "id": 217.0,
+            "lemma": "나",
+            "type": "NP",
+            "position": 982.0,
+            "weight": 0.0784263
+          },
+          {
+            "id": 218.0,
+            "lemma": "의",
+            "type": "JKG",
+            "position": 982.0,
+            "weight": 0.0784263
+          },
+          {
+            "id": 219.0,
+            "lemma": "자진",
+            "type": "NNG",
+            "position": 986.0,
+            "weight": 0.053225
+          },
+          {
+            "id": 220.0,
+            "lemma": "취소",
+            "type": "NNG",
+            "position": 993.0,
+            "weight": 0.0762425
+          },
+          {
+            "id": 221.0,
+            "lemma": "셀러",
+            "type": "NNG",
+            "position": 999.0,
+            "weight": 0.0137858
+          },
+          {
+            "id": 222.0,
+            "lemma": "발표",
+            "type": "NNG",
+            "position": 1005.0,
+            "weight": 0.0345653
+          },
+          {
+            "id": 223.0,
+            "lemma": "후",
+            "type": "NNG",
+            "position": 1012.0,
+            "weight": 0.0838523
+          },
+          {
+            "id": 224.0,
+            "lemma": "취소",
+            "type": "NNG",
+            "position": 1016.0,
+            "weight": 0.0573411
+          },
+          {
+            "id": 225.0,
+            "lemma": "불가",
+            "type": "NNG",
+            "position": 1023.0,
+            "weight": 0.0258386
+          }
+        ],
+        "WSD": [],
+        "word": [
+          {
+            "id": 0.0,
+            "text": "팝업스토어",
+            "type": "",
+            "begin": 0.0,
+            "end": 2.0
+          },
+          {
+            "id": 1.0,
+            "text": "참가",
+            "type": "",
+            "begin": 3.0,
+            "end": 3.0
+          },
+          {
+            "id": 2.0,
+            "text": "조건",
+            "type": "",
+            "begin": 4.0,
+            "end": 4.0
+          },
+          {
+            "id": 3.0,
+            "text": "안내팝업스토어",
+            "type": "",
+            "begin": 5.0,
+            "end": 8.0
+          },
+          {
+            "id": 4.0,
+            "text": "컨셉",
+            "type": "",
+            "begin": 9.0,
+            "end": 9.0
+          },
+          {
+            "id": 5.0,
+            "text": "및",
+            "type": "",
+            "begin": 10.0,
+            "end": 10.0
+          },
+          {
+            "id": 6.0,
+            "text": "주요사항5월",
+            "type": "",
+            "begin": 11.0,
+            "end": 14.0
+          },
+          {
+            "id": 7.0,
+            "text": "가정의",
+            "type": "",
+            "begin": 15.0,
+            "end": 16.0
+          },
+          {
+            "id": 8.0,
+            "text": "달",
+            "type": "",
+            "begin": 17.0,
+            "end": 17.0
+          },
+          {
+            "id": 9.0,
+            "text": "특집전,",
+            "type": "",
+            "begin": 18.0,
+            "end": 20.0
+          },
+          {
+            "id": 10.0,
+            "text": "옥상정원",
+            "type": "",
+            "begin": 21.0,
+            "end": 22.0
+          },
+          {
+            "id": 11.0,
+            "text": "피크닉",
+            "type": "",
+            "begin": 23.0,
+            "end": 23.0
+          },
+          {
+            "id": 12.0,
+            "text": "이벤트",
+            "type": "",
+            "begin": 24.0,
+            "end": 24.0
+          },
+          {
+            "id": 13.0,
+            "text": "기간패션잡화",
+            "type": "",
+            "begin": 25.0,
+            "end": 27.0
+          },
+          {
+            "id": 14.0,
+            "text": "/",
+            "type": "",
+            "begin": 28.0,
+            "end": 28.0
+          },
+          {
+            "id": 15.0,
+            "text": "쥬얼리",
+            "type": "",
+            "begin": 29.0,
+            "end": 29.0
+          },
+          {
+            "id": 16.0,
+            "text": "/",
+            "type": "",
+            "begin": 30.0,
+            "end": 30.0
+          },
+          {
+            "id": 17.0,
+            "text": "1020타겟의류",
+            "type": "",
+            "begin": 31.0,
+            "end": 33.0
+          },
+          {
+            "id": 18.0,
+            "text": "/",
+            "type": "",
+            "begin": 34.0,
+            "end": 34.0
+          },
+          {
+            "id": 19.0,
+            "text": "아웃도어",
+            "type": "",
+            "begin": 35.0,
+            "end": 36.0
+          },
+          {
+            "id": 20.0,
+            "text": "/",
+            "type": "",
+            "begin": 37.0,
+            "end": 37.0
+          },
+          {
+            "id": 21.0,
+            "text": "캠핑",
+            "type": "",
+            "begin": 38.0,
+            "end": 38.0
+          },
+          {
+            "id": 22.0,
+            "text": "카테고리",
+            "type": "",
+            "begin": 39.0,
+            "end": 39.0
+          },
+          {
+            "id": 23.0,
+            "text": "우선",
+            "type": "",
+            "begin": 40.0,
+            "end": 40.0
+          },
+          {
+            "id": 24.0,
+            "text": "선정동기간",
+            "type": "",
+            "begin": 41.0,
+            "end": 43.0
+          },
+          {
+            "id": 25.0,
+            "text": "동장소에서",
+            "type": "",
+            "begin": 44.0,
+            "end": 46.0
+          },
+          {
+            "id": 26.0,
+            "text": "피크닉",
+            "type": "",
+            "begin": 47.0,
+            "end": 47.0
+          },
+          {
+            "id": 27.0,
+            "text": "이벤트",
+            "type": "",
+            "begin": 48.0,
+            "end": 48.0
+          },
+          {
+            "id": 28.0,
+            "text": "(솜사탕",
+            "type": "",
+            "begin": 49.0,
+            "end": 51.0
+          },
+          {
+            "id": 29.0,
+            "text": "및",
+            "type": "",
+            "begin": 52.0,
+            "end": 52.0
+          },
+          {
+            "id": 30.0,
+            "text": "프리드링크,",
+            "type": "",
+            "begin": 53.0,
+            "end": 54.0
+          },
+          {
+            "id": 31.0,
+            "text": "돗자리",
+            "type": "",
+            "begin": 55.0,
+            "end": 56.0
+          },
+          {
+            "id": 32.0,
+            "text": "제공)",
+            "type": "",
+            "begin": 57.0,
+            "end": 58.0
+          },
+          {
+            "id": 33.0,
+            "text": "진행",
+            "type": "",
+            "begin": 59.0,
+            "end": 59.0
+          },
+          {
+            "id": 34.0,
+            "text": "예정팝업일정",
+            "type": "",
+            "begin": 60.0,
+            "end": 63.0
+          },
+          {
+            "id": 35.0,
+            "text": "및",
+            "type": "",
+            "begin": 64.0,
+            "end": 64.0
+          },
+          {
+            "id": 36.0,
+            "text": "영업시간공간:",
+            "type": "",
+            "begin": 65.0,
+            "end": 68.0
+          },
+          {
+            "id": 37.0,
+            "text": "수원",
+            "type": "",
+            "begin": 69.0,
+            "end": 69.0
+          },
+          {
+            "id": 38.0,
+            "text": "AK",
+            "type": "",
+            "begin": 70.0,
+            "end": 70.0
+          },
+          {
+            "id": 39.0,
+            "text": "백화점",
+            "type": "",
+            "begin": 71.0,
+            "end": 72.0
+          },
+          {
+            "id": 40.0,
+            "text": "7층",
+            "type": "",
+            "begin": 73.0,
+            "end": 74.0
+          },
+          {
+            "id": 41.0,
+            "text": "옥상",
+            "type": "",
+            "begin": 75.0,
+            "end": 75.0
+          },
+          {
+            "id": 42.0,
+            "text": "정원일정:",
+            "type": "",
+            "begin": 76.0,
+            "end": 78.0
+          },
+          {
+            "id": 43.0,
+            "text": "5/5(목)",
+            "type": "",
+            "begin": 79.0,
+            "end": 84.0
+          },
+          {
+            "id": 44.0,
+            "text": "~",
+            "type": "",
+            "begin": 85.0,
+            "end": 85.0
+          },
+          {
+            "id": 45.0,
+            "text": "5/15(일),",
+            "type": "",
+            "begin": 86.0,
+            "end": 92.0
+          },
+          {
+            "id": 46.0,
+            "text": "11일간영업시간:",
+            "type": "",
+            "begin": 93.0,
+            "end": 98.0
+          },
+          {
+            "id": 47.0,
+            "text": "10:30",
+            "type": "",
+            "begin": 99.0,
+            "end": 101.0
+          },
+          {
+            "id": 48.0,
+            "text": "~",
+            "type": "",
+            "begin": 102.0,
+            "end": 102.0
+          },
+          {
+            "id": 49.0,
+            "text": "20:00",
+            "type": "",
+            "begin": 103.0,
+            "end": 105.0
+          },
+          {
+            "id": 50.0,
+            "text": "(단,",
+            "type": "",
+            "begin": 106.0,
+            "end": 108.0
+          },
+          {
+            "id": 51.0,
+            "text": "금~일은",
+            "type": "",
+            "begin": 109.0,
+            "end": 112.0
+          },
+          {
+            "id": 52.0,
+            "text": "10:30",
+            "type": "",
+            "begin": 113.0,
+            "end": 115.0
+          },
+          {
+            "id": 53.0,
+            "text": "~",
+            "type": "",
+            "begin": 116.0,
+            "end": 116.0
+          },
+          {
+            "id": 54.0,
+            "text": "20:30)팝업공간",
+            "type": "",
+            "begin": 117.0,
+            "end": 123.0
+          },
+          {
+            "id": 55.0,
+            "text": "안내참여",
+            "type": "",
+            "begin": 124.0,
+            "end": 125.0
+          },
+          {
+            "id": 56.0,
+            "text": "브랜드",
+            "type": "",
+            "begin": 126.0,
+            "end": 126.0
+          },
+          {
+            "id": 57.0,
+            "text": "규모",
+            "type": "",
+            "begin": 127.0,
+            "end": 127.0
+          },
+          {
+            "id": 58.0,
+            "text": ":",
+            "type": "",
+            "begin": 128.0,
+            "end": 128.0
+          },
+          {
+            "id": 59.0,
+            "text": "5",
+            "type": "",
+            "begin": 129.0,
+            "end": 129.0
+          },
+          {
+            "id": 60.0,
+            "text": "~",
+            "type": "",
+            "begin": 130.0,
+            "end": 130.0
+          },
+          {
+            "id": 61.0,
+            "text": "6개",
+            "type": "",
+            "begin": 131.0,
+            "end": 132.0
+          },
+          {
+            "id": 62.0,
+            "text": "브랜드주요",
+            "type": "",
+            "begin": 133.0,
+            "end": 134.0
+          },
+          {
+            "id": 63.0,
+            "text": "고객층",
+            "type": "",
+            "begin": 135.0,
+            "end": 136.0
+          },
+          {
+            "id": 64.0,
+            "text": ":",
+            "type": "",
+            "begin": 137.0,
+            "end": 137.0
+          },
+          {
+            "id": 65.0,
+            "text": "102030",
+            "type": "",
+            "begin": 138.0,
+            "end": 138.0
+          },
+          {
+            "id": 66.0,
+            "text": "젊은",
+            "type": "",
+            "begin": 139.0,
+            "end": 140.0
+          },
+          {
+            "id": 67.0,
+            "text": "층",
+            "type": "",
+            "begin": 141.0,
+            "end": 141.0
+          },
+          {
+            "id": 68.0,
+            "text": "고객팝업자",
+            "type": "",
+            "begin": 142.0,
+            "end": 143.0
+          },
+          {
+            "id": 69.0,
+            "text": "준비사항판매사원(필수)연출소품",
+            "type": "",
+            "begin": 144.0,
+            "end": 152.0
+          },
+          {
+            "id": 70.0,
+            "text": "및",
+            "type": "",
+            "begin": 153.0,
+            "end": 153.0
+          },
+          {
+            "id": 71.0,
+            "text": "간이의자제공사항판매용",
+            "type": "",
+            "begin": 154.0,
+            "end": 159.0
+          },
+          {
+            "id": 72.0,
+            "text": "테이블/매대(무상)결제",
+            "type": "",
+            "begin": 160.0,
+            "end": 166.0
+          },
+          {
+            "id": 73.0,
+            "text": "단말기(공용)전기참가비용",
+            "type": "",
+            "begin": 167.0,
+            "end": 174.0
+          },
+          {
+            "id": 74.0,
+            "text": "및",
+            "type": "",
+            "begin": 175.0,
+            "end": 175.0
+          },
+          {
+            "id": 75.0,
+            "text": "정산수수료",
+            "type": "",
+            "begin": 176.0,
+            "end": 178.0
+          },
+          {
+            "id": 76.0,
+            "text": "조건(총매출액의",
+            "type": "",
+            "begin": 179.0,
+            "end": 184.0
+          },
+          {
+            "id": 77.0,
+            "text": "계약",
+            "type": "",
+            "begin": 185.0,
+            "end": 185.0
+          },
+          {
+            "id": 78.0,
+            "text": "수수료율",
+            "type": "",
+            "begin": 186.0,
+            "end": 188.0
+          },
+          {
+            "id": 79.0,
+            "text": "적용)정산일정",
+            "type": "",
+            "begin": 189.0,
+            "end": 192.0
+          },
+          {
+            "id": 80.0,
+            "text": ":",
+            "type": "",
+            "begin": 193.0,
+            "end": 193.0
+          },
+          {
+            "id": 81.0,
+            "text": "계약서",
+            "type": "",
+            "begin": 194.0,
+            "end": 195.0
+          },
+          {
+            "id": 82.0,
+            "text": "맨",
+            "type": "",
+            "begin": 196.0,
+            "end": 196.0
+          },
+          {
+            "id": 83.0,
+            "text": "마지막",
+            "type": "",
+            "begin": 197.0,
+            "end": 197.0
+          },
+          {
+            "id": 84.0,
+            "text": "장",
+            "type": "",
+            "begin": 198.0,
+            "end": 198.0
+          },
+          {
+            "id": 85.0,
+            "text": "확인모집마감04월",
+            "type": "",
+            "begin": 199.0,
+            "end": 203.0
+          },
+          {
+            "id": 86.0,
+            "text": "24일셀러발표04월",
+            "type": "",
+            "begin": 204.0,
+            "end": 209.0
+          },
+          {
+            "id": 87.0,
+            "text": "25일참가신청",
+            "type": "",
+            "begin": 210.0,
+            "end": 213.0
+          },
+          {
+            "id": 88.0,
+            "text": "취소신청기간",
+            "type": "",
+            "begin": 214.0,
+            "end": 216.0
+          },
+          {
+            "id": 89.0,
+            "text": "내",
+            "type": "",
+            "begin": 217.0,
+            "end": 218.0
+          },
+          {
+            "id": 90.0,
+            "text": "자진",
+            "type": "",
+            "begin": 219.0,
+            "end": 219.0
+          },
+          {
+            "id": 91.0,
+            "text": "취소셀러발표",
+            "type": "",
+            "begin": 220.0,
+            "end": 222.0
+          },
+          {
+            "id": 92.0,
+            "text": "후",
+            "type": "",
+            "begin": 223.0,
+            "end": 223.0
+          },
+          {
+            "id": 93.0,
+            "text": "취소",
+            "type": "",
+            "begin": 224.0,
+            "end": 224.0
+          },
+          {
+            "id": 94.0,
+            "text": "불가",
+            "type": "",
+            "begin": 225.0,
+            "end": 225.0
+          }
+        ],
+        "NE": [
+          {
+            "id": 0.0,
+            "text": "5월",
+            "type": "DT_MONTH",
+            "begin": 13.0,
+            "end": 14.0,
+            "weight": 0.351203,
+            "common_noun": 0.0
+          },
+          {
+            "id": 1.0,
+            "text": "쥬얼리",
+            "type": "PS_NAME",
+            "begin": 29.0,
+            "end": 29.0,
+            "weight": 0.174525,
+            "common_noun": 0.0
+          },
+          {
+            "id": 2.0,
+            "text": "1020",
+            "type": "DT_YEAR",
+            "begin": 31.0,
+            "end": 31.0,
+            "weight": 0.146344,
+            "common_noun": 0.0
+          },
+          {
+            "id": 3.0,
+            "text": "솜사탕",
+            "type": "CV_FOOD",
+            "begin": 50.0,
+            "end": 51.0,
+            "weight": 0.350741,
+            "common_noun": 0.0
+          },
+          {
+            "id": 4.0,
+            "text": "프리드링크",
+            "type": "OGG_ECONOMY",
+            "begin": 53.0,
+            "end": 53.0,
+            "weight": 0.115126,
+            "common_noun": 0.0
+          },
+          {
+            "id": 5.0,
+            "text": "수원 AK",
+            "type": "OGG_ECONOMY",
+            "begin": 69.0,
+            "end": 70.0,
+            "weight": 0.155244,
+            "common_noun": 0.0
+          },
+          {
+            "id": 6.0,
+            "text": "7층",
+            "type": "QT_ORDER",
+            "begin": 73.0,
+            "end": 74.0,
+            "weight": 0.519664,
+            "common_noun": 0.0
+          },
+          {
+            "id": 7.0,
+            "text": "5/5(목) ~ 5/15(일",
+            "type": "DT_DURATION",
+            "begin": 79.0,
+            "end": 90.0,
+            "weight": 0.543713,
+            "common_noun": 0.0
+          },
+          {
+            "id": 8.0,
+            "text": "11일간",
+            "type": "DT_DURATION",
+            "begin": 93.0,
+            "end": 95.0,
+            "weight": 0.552358,
+            "common_noun": 0.0
+          },
+          {
+            "id": 9.0,
+            "text": "10:30 ~ 20:00",
+            "type": "TI_DURATION",
+            "begin": 99.0,
+            "end": 105.0,
+            "weight": 0.472917,
+            "common_noun": 0.0
+          },
+          {
+            "id": 10.0,
+            "text": "금~일",
+            "type": "DT_DURATION",
+            "begin": 109.0,
+            "end": 111.0,
+            "weight": 0.161653,
+            "common_noun": 0.0
+          },
+          {
+            "id": 11.0,
+            "text": "10:30 ~ 20:30",
+            "type": "TI_DURATION",
+            "begin": 113.0,
+            "end": 119.0,
+            "weight": 0.439814,
+            "common_noun": 0.0
+          },
+          {
+            "id": 12.0,
+            "text": "5 ~ 6개",
+            "type": "QT_COUNT",
+            "begin": 129.0,
+            "end": 132.0,
+            "weight": 0.30359,
+            "common_noun": 0.0
+          },
+          {
+            "id": 13.0,
+            "text": "고객",
+            "type": "CV_POSITION",
+            "begin": 135.0,
+            "end": 135.0,
+            "weight": 0.425953,
+            "common_noun": 0.0
+          },
+          {
+            "id": 14.0,
+            "text": "102030",
+            "type": "QT_OTHERS",
+            "begin": 138.0,
+            "end": 138.0,
+            "weight": 0.265597,
+            "common_noun": 0.0
+          },
+          {
+            "id": 15.0,
+            "text": "고객",
+            "type": "CV_POSITION",
+            "begin": 142.0,
+            "end": 142.0,
+            "weight": 0.389816,
+            "common_noun": 0.0
+          },
+          {
+            "id": 16.0,
+            "text": "04월 24일",
+            "type": "DT_OTHERS",
+            "begin": 202.0,
+            "end": 205.0,
+            "weight": 0.332334,
+            "common_noun": 0.0
+          },
+          {
+            "id": 17.0,
+            "text": "04월 25일",
+            "type": "DT_OTHERS",
+            "begin": 208.0,
+            "end": 211.0,
+            "weight": 0.29369,
+            "common_noun": 0.0
+          }
+        ],
+        "NE_Link": [],
+        "dependency": [],
+        "SRL": []
+      }
+    ],
+    "entity": []
+  }
+}
