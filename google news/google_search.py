@@ -14,4 +14,4 @@ savePath = url + '.jpg'
 print(src)
 print(savePath)
 
-urllib.request.urlretrieve(src, 01.jpg)
+urllib.request.urlretrieve(src, "02.jpg")

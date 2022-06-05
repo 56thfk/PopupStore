@@ -1,9 +1,11 @@
-// Imports
+import firebase
+
+// Import
 const firestoreService = require('firestore-export-import');
 const firebaseConfig = require('./config.js');
 const serviceAccount = require('./serviceAccount.json');
 
-// JSON To Firestore
+// json 파일 > 파이어스토어
 const jsonToFirestore = async () => {
 try {
     console.log('Initialzing Firebase');

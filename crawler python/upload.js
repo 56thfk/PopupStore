@@ -1,3 +1,5 @@
+// 코드 보류
+
 import { getStorage, ref } from "firebase/storage";
 
 // Create a root reference
