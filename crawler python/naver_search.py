@@ -58,10 +58,10 @@ for list in jsonArray:
     #News 컬렉션
     popup = db.collection(u'News').document()
     popup.set({
-        u'Title' : title,
-        u'Url' : url,
-        u'Thumbnail' : thumbnail,
-        u'Date' : date 
+        u'title' : title,
+        u'url' : url,
+        u'image' : thumbnail,
+        u'id' : date 
     }, merge=True)
 
 
