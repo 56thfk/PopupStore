@@ -7,15 +7,18 @@ def getThumbnail(getUrl):
     html = urlopen(url)
     bsObject = BeautifulSoup(html, "html.parser")
 
-    getImageUrl = bsObject.select_one('div > img')
-    src = getImageUrl.get('src')
-    #savePath = str(src.replace("https:\\", "").replace("/", "").replace(":", ""))
+    try:
+        getImageUrl = bsObject.select_one('div > img')
+        src = getImageUrl.get('src')
+        #savePath = str(src.replace("https:\\", "").replace("/", "").replace(":", ""))
 
-    print(src)
-    #print(savePath)
+        print(src)
+    except:
+        print("이미지 불러올 수 없음")
+        #print(savePath)
 
-    #이미지 다운
-    #urllib.request.urlretrieve(src, savePath)
+        #이미지 다운
+        #urllib.request.urlretrieve(src, savePath)
 
     return src
 

@@ -1,5 +1,4 @@
-import os
-import sys
+import re
 import json
 import urllib.request
 import firebase_admin
@@ -18,10 +17,15 @@ db = firestore.client()
 client_id = "rWDfDdzRuHWK3UE3vkMZ"
 client_secret = "TJEkpxfkrw"
 
+def cleanText(text):
+    cleanText = re.sub('</b>|<b>|&quot;|','', text)
+    removeBracket = re.sub(r'\[[^)]*\].', '',cleanText)
+
+    return removeBracket
 
 
-encText = urllib.parse.quote("팝업스토어")
-naverUrl = "https://openapi.naver.com/v1/search/news?query=" + encText + "&display=10&sort=date"
+encText = urllib.parse.quote("팝업스토어 오픈")
+naverUrl = "https://openapi.naver.com/v1/search/news?query=" + encText + "&display=30&sort=date"
 
 request = urllib.request.Request(naverUrl)
 request.add_header("X-Naver-Client-Id", client_id)
@@ -39,16 +43,25 @@ with open("naver_result.json", "w", encoding="utf-8") as json_file:
     json_data = json.loads(response_body)
     json.dump(json_data, json_file, indent=2, ensure_ascii=False)
 
+
 jsonArray = json_data.get('items')
 for list in jsonArray:
     title = list.get('title')
-    url = list.get('link')
-    thumbnail = naver_thumbnail.getThumbnail(url)
-    city = db.collection(u'POPUP').document()
-    city.set({
-        u'TITLE' : title,
-        u'URL' : url,
-        u'THUMBNAIL' : thumbnail 
-    })
+    title = cleanText(title)
+    url = list.get('originallink')
+    try:
+        thumbnail = naver_thumbnail.getThumbnail(url)
+    except:
+        print("이미지 불러올 수 없음")
+    date = list.get('pubDate')
+    
+    #News 컬렉션
+    popup = db.collection(u'News').document()
+    popup.set({
+        u'Title' : title,
+        u'Url' : url,
+        u'Thumbnail' : thumbnail,
+        u'Date' : date 
+    }, merge=True)
 
 
